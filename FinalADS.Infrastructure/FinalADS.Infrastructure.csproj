@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Migrations\MySQL\7_CreateAccountTable.sql" />
+    <None Remove="Migrations\MySQL\7_InsertAccounts.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\MySQL\7_InsertAccounts.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\7_CreateAccountTable.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ArticuloCientifico\Autor\Persistence\NHibernate\Mapping\" />
+    <Folder Include="ArticuloCientifico\Autor\Persistence\NHibernate\Repository\" />
+    <Folder Include="ArticuloCientifico\Persistence\NHibernate\Mapping\" />
+    <Folder Include="ArticuloCientifico\Persistence\NHibernate\Repository\" />
+    <Folder Include="Formato\Autor\Persistence\NHibernate\Mapping\" />
+    <Folder Include="Formato\Autor\Persistence\NHibernate\Repository\" />
+    <Folder Include="Formato\Persistence\NHibernate\Mapping\" />
+    <Folder Include="Formato\Persistence\NHibernate\Repository\" />
+    <Folder Include="Seedwork\" />
+    <Folder Include="Transactions\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="FluentMigrator" Version="3.1.3" />
+    <PackageReference Include="FluentMigrator.Runner" Version="3.1.3" />
+    <PackageReference Include="FluentMigrator.Runner.MySql" Version="3.1.3" />
+    <PackageReference Include="FluentNHibernate" Version="2.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="2.1.3" />
+    <PackageReference Include="MySql.Data" Version="8.0.13" />
+    <PackageReference Include="NHibernate" Version="5.1.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FinalADS.Domain\FinalADS.Domain.csproj" />
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
+</Project>

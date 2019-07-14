@@ -1,0 +1,49 @@
+1.- Optimizar la siguiente consulta T-SQL:
+SELECT *
+FROM Students
+WHERE SUBSTRING(email, 0, CHARINDEX('@', email, 0)) = 'JPerez';
+
+rpta:
+SELECT * FROM Students
+WHERE CHARINDEX('@', email, 0) = 'Jperez';
+
+-------------------------------------------
+DECLARE @email VARCHAR(100);  
+SELECT @email = 'Jperez';  
+SELECT CHARINDEX('Email', @email,0); 
+--------------------------------
+SELECT CHARINDEX('0', email) AS "Email" FROM Students;
+
+2.-Explicar
+
+Database migrations:
+es la migracion de tabla en codigo escrito de SQL con el objetivo de que el codigo de creacion y inserción entre otros
+para que sea compatible en casi todo las BD con finalidad de trabajar en equipos o microservicios, asi no tenemos problemas en la BD
+
+Continuous integration:
+la integracion continua es cuando en base a framework , plataforma de desarrollo
+se suben todas las modificaciones de todos los programadores mediante el push;
+a fin que todos usen un solo repositorio y terminan el build con la finalidad que 
+todos tiene en cualquier momento el codigo fuente con todas la librearias.
+
+deployment and delivery:
+despleiegue continua es cuando automaticamente desde el repositorio principal 
+rama master se carga todas las modificacione y en ese instante se valida las 
+modficaciones con el objetivo que en ese momento se peude visualizar en tiempo 
+real las modificaciones
+
+Continuous Delivery
+es poder liberar las versiones del software pero testeado. la empresa que utiliza es la de google,facebok entre otros
+
+Clean and scalable architecture:
+una arquite tectura limpia bada en codigo limpio es mas eficiencia y sosteniteble
+por le motivo que el domion design que nos ayuda con sus patrones para programar 
+en codigo limpio.
+
+Construir una API REST aplicando los temas vistos en el curso (clean architecture, clean code, SOLID principles, patrones, database migrations, ORM, pruebas unitarias, etc). Los endpoints requeridos son los siguientes:
+
+Registro de articulos científicos, los datos obligatorios son título, autor(es), resumen, contenido, formato (IEEE, ACM o APA), fecha de envío, fecha de aceptación y fecha de publicación. (3 puntos)
+Listado paginado de artículos científicos por tipo de formato y rango de fechas de publicación. (4 puntos)
+Listado paginado de autores (mostrar nombres y apellidos, institución, y número total de artículos). (3 puntos)
+Conversión del contenido de un artículo a otro formato (simular cada algoritmo de conversión retornando un simple string). (5 puntos)
+

@@ -1,0 +1,395 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.API\\FinalADS.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\HUAMAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.API\\FinalADS.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.API\\FinalADS.API.csproj",
+        "projectName": "FinalADS.API",
+        "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.API\\FinalADS.API.csproj",
+        "packagesPath": "C:\\Users\\HUAMAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj": {
+                "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj"
+              },
+              "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "FluentMigrator.Runner.MySql": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj",
+        "projectName": "FinalADS.Application",
+        "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Application\\FinalADS.Application.csproj",
+        "packagesPath": "C:\\Users\\HUAMAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj": {
+                "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj"
+              },
+              "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj",
+        "projectName": "FinalADS.Domain",
+        "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj",
+        "packagesPath": "C:\\Users\\HUAMAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj",
+        "projectName": "FinalADS.Infrastructure",
+        "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Infrastructure\\FinalADS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HUAMAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj"
+              },
+              "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj": {
+                "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "FluentMigrator.Runner.MySql": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.1.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

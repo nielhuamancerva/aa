@@ -1,0 +1,5 @@
+﻿CREATE TABLE formato(
+  formato_id BIGINT(20) UNSIGNED NOT NULL AUTO_INCREMENT,
+  nombre_formato VARCHAR(50) NOT NULL,
+  PRIMARY KEY(formato_id)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

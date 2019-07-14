@@ -1,0 +1,42 @@
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Infrastructure.deps.json
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Infrastructure.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Infrastructure.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Domain.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Domain.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.AssemblyInfo.cs
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.csproj.CopyComplete
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\endopoint_banking_grupo04 - copia\Banking.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Infrastructure.deps.json
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Infrastructure.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Infrastructure.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Domain.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Domain.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.AssemblyInfo.cs
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.csproj.CopyComplete
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04 - ultimo\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.pdb
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Infrastructure.deps.json
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Infrastructure.dll
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Infrastructure.pdb
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Domain.dll
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\FinalADS.Domain.pdb
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.AssemblyInfo.cs
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.csproj.CopyComplete
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.dll
+C:\Users\HUAMAN\Desktop\Nueva carpeta\Nueva carpeta\API-ADS\FinalADS.Infrastructure\obj\Debug\netcoreapp2.2\FinalADS.Infrastructure.pdb

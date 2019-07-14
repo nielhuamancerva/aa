@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\HUAMAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj",
+        "projectName": "FinalADS.Domain",
+        "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\FinalADS.Domain.csproj",
+        "packagesPath": "C:\\Users\\HUAMAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\FinalADS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HUAMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\HUAMAN\\Desktop\\Nueva carpeta\\Nueva carpeta\\API-ADS\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+﻿CREATE TABLE autor(
+  autor_id BIGINT(20) UNSIGNED NOT NULL AUTO_INCREMENT,
+  first_name VARCHAR (50) NOT NULL,
+  last_name VARCHAR (50) NOT NULL,
+  institucion VARCHAR (50) NOT NULL,
+  PRIMARY KEY(autor_id)
+  )ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
